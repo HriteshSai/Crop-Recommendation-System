@@ -7,8 +7,8 @@
 <b>Team Member 1:</b><p><a href = https://github.com/AluriSuryaTeja>Aluri Surya Teja</a> </p>
 <b>Team Member 2:</b><p> <a href = https://github.com/HriteshSai>Jakkula Hritesh Sai</a></p>
 <b>Team Member 3:</b><p> <a href = https://github.com/TejeshVinay>Tejesh Vinay Ch</a></p>
-<b>Team Member 4:</b><p> Goturi Baladitya</p>
-<b>Team Member 5:</b><p> Kari Karthik</p>
+<b>Team Member 4:</b><p><a href = https://github.com/bala5316> Goturi Baladitya</a></p>
+<b>Team Member 5:</b><p> <a href = https://github.com/Karthikkari>Kari Karthik</a></p>
 
 ## Table of Contents
 - [Introduction](#introduction) <br>
