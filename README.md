@@ -48,15 +48,17 @@ joblib            1.3.2
 <h2>How-to-use</h2>
 <p>You can clone the repository by executing this command in the gitbash environment in the required directory </p>
 
-  terminal
+ ```terminal
   git clone https://github.com/AAC-Open-Source-Poul/Contactless-Fingerprint-Identification.git
+```
   
 <p> Make sure the paths are configured properly <br>
   Open the terminal in the required directory and execute the following command
 </p>
 
-  terminal
-   flask run
+```terminal
+flask run
+```
   
   
 <p>Wait for the development server to deploy and open  <a href="http://127.0.0.1:5000">Local Host</a></p>
