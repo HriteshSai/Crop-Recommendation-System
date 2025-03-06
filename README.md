@@ -57,7 +57,7 @@ joblib            1.3.2
 </p>
 
 ```terminal
-[gh repo clone HriteshSai/Crop-Recommendation-System](https://github.com/HriteshSai/Crop-Recommendation-System.git)
+git clone https://github.com/HriteshSai/Crop-Recommendation-System.git
 ```
   
   
