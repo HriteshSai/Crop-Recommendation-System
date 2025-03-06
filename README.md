@@ -49,7 +49,7 @@ joblib            1.3.2
 <p>You can clone the repository by executing this command in the gitbash environment in the required directory </p>
 
  ```terminal
-  git clone https://github.com/AAC-Open-Source-Poul/Contactless-Fingerprint-Identification.git
+  
 ```
   
 <p> Make sure the paths are configured properly <br>
@@ -57,7 +57,7 @@ joblib            1.3.2
 </p>
 
 ```terminal
-flask run
+[gh repo clone HriteshSai/Crop-Recommendation-System](https://github.com/HriteshSai/Crop-Recommendation-System.git)
 ```
   
   
